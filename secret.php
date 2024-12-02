@@ -1,5 +1,8 @@
 <?php require_once('./assets/layout/header.php'); ?> 
 
+
+
+
     <div class="container secret-content">
          <h1>Geheime Informationen</h1>
          <br><br>

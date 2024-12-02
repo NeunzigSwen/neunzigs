@@ -245,7 +245,7 @@
     </section><!-- /Resume Section -->
 
     <!-- Portfolio Section -->
-    <section id="portfolio" class="portfolio section light-background">
+    <section id="regist" class="portfolio section light-background">
    
           <!-- Testimonials Section -->
         <section id="testimonials" class="testimonials section light-background">

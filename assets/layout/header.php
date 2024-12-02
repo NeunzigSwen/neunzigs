@@ -62,12 +62,12 @@
             <li><a href="#hero" class="active"><i class="bi bi-house navicon"></i>Home</a></li>
             <li><a href="#about"><i class="bi bi-person navicon"></i> Über mich</a></li>
             <li><a href="#resume"><i class="bi bi-file-earmark-text navicon"></i> Lebenslauf</a></li>
-            <li><a href="#portfolio"><i class="bi bi-images navicon"></i> Registrieren</a></li>
+            <li><a href="#regist"><i class="bi bi-images navicon"></i> Registrieren</a></li>
             <li><a href="#contact"><i class="bi bi-envelope navicon"></i> Kontakt</a></li>
         </ul>
     </nav>
 
-    <div class="login-form">
+    <div class="login-form"> <!-- Einfügen des logins in die Navbar""> -->
         <form action="login.php" method="post">
             <div class="form-group">
                 <label for="username">Benutzername:</label>
